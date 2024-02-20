@@ -1,112 +1,81 @@
+// Задча 1 //
+// let variable = 10;
 
-console.log("My name is");
-
-const firstName = 'Nurislam';
-
-console.log("Nurislam")
-
-const name = "My name is: Simon"
-
-console.log("My name is: Simon")
-
-const three = 3;
-const five = 5;
-const to = 2;
-
-let totalCost = three * five - five -to;
-console.log(`Total cost: $${totalCost}`);
-
-const dollar = 8;
-
-console.log(`Total cost: $${dollar}`);
-
-const number = 8;
-
-alert(`Total cost: $${number}`)
-
-let numbers = 590;
-let Aspire = 304;
-let fo = numbers + Aspire
-let fifti = 100;
-console.log(fo/fifti)
-
-let exic = 590;
-let menshe = 304;
-let puithon = exic + menshe;
-let makvin = 100;
-console.log(`Total cost: $${puithon / makvin}`)
-
-let van = 0.8;
-let tu = 2090;
-let sri = 2;
-let foti = 811;
-let fiveti = 100;
-let js = van * tu + sri * foti 
-let java =  fiveti;
-console.log(`items(4): ${js / fiveti}`)
-
-let miagi = 499 + 499;
-let paradise = miagi 
-let kossandra = 100;
-console.log(`Shipping & handling:$${paradise / kossandra}`)
+// if (variable === 10) {
+//   console.log('Верно');
+// }else{
+//   console.log('Не верно');
+// }
 
 
-let matimka =  0.9 * 2095 + 2 * 799 + 466 + 460 
+//Задача 2//
+// let apartmentnumber = parseInt(prompt("Введите номер квартиры"))
 
-let geometria = 100
+// if (apartmentnumber >= 1 && apartmentnumber <= 20) {
+//   console.log("Кватира находится в первом подьездею");
+// } else if (  apartmentnumber >= 21 && apartmentnumber <= 48) {
+//   console.log("Кватира находится во втором подбезде.");
+// }else if (apartmentnumber >= 49 && apartmentnumber <= 90) {
+//   console.log("Кватира находится в третьем подьезде");
+// } else {
+//   console.log("В данном доме нет кватиры с таким номером.");
+// }
 
-console.log(`$${matimka / geometria}`)
+//Задача 3//
+// let a = 3
 
+// if (a > 0 && a < 5) {
+//   console.log("Верно");
+// }else {
+//   console.log("Не верно");
+// }
+// Задача 4 //
 
-let тринадцать = 2 * 2095 + 2 * 799 +499 + 499 * 0.1
+// const time = 11
 
-let slesh = 100
+// // zadacha5//
 
-console.log(`Estimated tax (10%): $${Math.round((2 * 2095 + 2 * 799 + 499 + 499) * 0.1) / 100}`);
+// const name1 = "Nursultan"
 
+// const name2 = "Nurislam"
 
-const result = "Simon"
-console.log(result);
+// const nema3 = "Syimyk"
 
-let nae = "Simon";
-console.log(`My name is: ${nae}`);
+// if (time >=6  && time <= 12) {
+//     console.log(`Доброе утро ${name1}`);
+// } else if (time >=13 && time <= 18) {
+//     console.log(`Добрый день ${name2}`);
+// }else if (time >=18 && time <= 23) {
+//     console.log(`Добрый вечер ${nema3}`);
+// }
 
-let умножение = 5 + (2 * 3) + 5;
-console.log(умножение);
+// zadacha 6
 
-let dolar = 16;
-console.log(`Cost of food: $${dolar}`);
+// let starik = 66
 
-let nalog = 16;
-let tax = nalog * 0.1;
-console.log(tax)
+// if (starik >= 6 && starik <= 65) {
+//     console.log("Скидка жок");
+// } else {
+//     console.log("Сидка 65%");
+// }
 
-let sixteen = 16;
-let taxs = sixteen * 0.1;
-let  шестнадцать  = taxs + sixteen;
-console.log(шестнадцать);
+// zadacha 7 
 
+// let randomazer = Math.random()
 
-let seventeen = 17.6;
-console.log(`Total cost: ${seventeen}`);
+// if (randomazer <= 1 && randomazer >= 2/4) {
+//     console.log("орёл");
+// } else {
+//     console.log("решка");
+// }
 
+// zadacha 8 
 
+// const number = 7;
 
+// if (number % 2 === 1) {
+//     console.log('Число чётное');
+// } else {
+//     console.log('Число нечётное');
+// }
 
-
-alert(`Total cost: $${puithon / makvin} Thank you, come again!`)
-
-const NurtName = prompt("Введите ваше имя");
-
-alert
-
-alert("Вы успешно зарегистрировались!");
-
-let isBoss = confirm("При перезагрузке сайта, введённые данные на форме будут очищены, Вы уверены что хотите перезагрузить?");
-
-
-let т = (2 * 2095) + 2 * 799 +499 + 499 * 0.1
-
-let s = 100
-
-console.log(`Estimated tax (10%): $${Math.round((2 * 2095 + 2 * 799 + 499 + 499) * 0.1) / 100}`);
